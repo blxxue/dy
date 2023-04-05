@@ -1,9 +1,9 @@
 ####################################
 # 创建者：v2rayse.com
 # 客户端：Clash
-# 创建时间：2023-04-06 00:48:38
+# 创建时间：2023-04-06 06:30:36
 # 使用模版：V2RaySE 默认模版
-# 节点数量：5
+# 节点数量：6
 ####################################
 mixed-port: 7890
 allow-lan: true
@@ -26,6 +26,7 @@ proxies:
   - {"name":"🇯🇵 沪日iplc","type":"ss","server":"iplc.jp.bbcc.cyou","port":24600,"password":"Quoe5LzZmo","cipher":"aes-256-gcm"}
   - {"name":"🇺🇸 美国","type":"ss","server":"gz.cm.bbcc.cyou","port":46588,"password":"TNbsoDJbpk","cipher":"aes-256-gcm"}
   - {"name":"🇬🇧 英国","type":"ss","server":"zf.gz.cu.edu.kg","port":12901,"password":"21Mbdu6aSW","cipher":"aes-256-gcm"}
+  - {"name":"🇹🇭 泰国","type":"ss","server":"zf.gz.cu.edu.kg","port":29322,"password":"I0LT8nsYDihEVJ9m","cipher":"aes-256-gcm"}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -37,6 +38,7 @@ proxy-groups:
       - 🇯🇵 沪日iplc
       - 🇺🇸 美国
       - 🇬🇧 英国
+      - 🇹🇭 泰国
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -48,6 +50,7 @@ proxy-groups:
       - 🇯🇵 沪日iplc
       - 🇺🇸 美国
       - 🇬🇧 英国
+      - 🇹🇭 泰国
   - name: 🌍 国外媒体
     type: select
     proxies:
@@ -59,6 +62,7 @@ proxy-groups:
       - 🇯🇵 沪日iplc
       - 🇺🇸 美国
       - 🇬🇧 英国
+      - 🇹🇭 泰国
   - name: 📲 电报信息
     type: select
     proxies:
@@ -69,6 +73,7 @@ proxy-groups:
       - 🇯🇵 沪日iplc
       - 🇺🇸 美国
       - 🇬🇧 英国
+      - 🇹🇭 泰国
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
@@ -79,6 +84,7 @@ proxy-groups:
       - 🇯🇵 沪日iplc
       - 🇺🇸 美国
       - 🇬🇧 英国
+      - 🇹🇭 泰国
   - name: 🍎 苹果服务
     type: select
     proxies:
@@ -89,6 +95,7 @@ proxy-groups:
       - 🇯🇵 沪日iplc
       - 🇺🇸 美国
       - 🇬🇧 英国
+      - 🇹🇭 泰国
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -116,6 +123,7 @@ proxy-groups:
       - 🇯🇵 沪日iplc
       - 🇺🇸 美国
       - 🇬🇧 英国
+      - 🇹🇭 泰国
 
 rules:
 # 本地/局域网地址
