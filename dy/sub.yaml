@@ -1,7 +1,7 @@
 ####################################
 # 创建者：v2rayse.com
 # 客户端：Clash
-# 创建时间：2023-04-06 07:23:21
+# 创建时间：2023-04-06 11:52:08
 # 使用模版：V2RaySE 默认模版
 # 节点数量：6
 ####################################
@@ -24,8 +24,8 @@ proxies:
   - {"name":"🇸🇬 新加坡","type":"ss","server":"zf.gz.cu.edu.kg","port":20800,"password":"Jw45kviZNd","cipher":"aes-256-gcm"}
   - {"name":"🇯🇵 日本","type":"ss","server":"zf.gz.cu.edu.kg","port":45717,"password":"JArTSRUElC","cipher":"aes-256-gcm"}
   - {"name":"🇯🇵 沪日iplc","type":"ss","server":"iplc.jp.bbcc.cyou","port":24800,"password":"Quoe5LzZmo","cipher":"aes-256-gcm"}
-  - {"name":"🇺🇸 美国","type":"ss","server":"gz.cm.bbcc.cyou","port":46588,"password":"TNbsoDJbpk","cipher":"aes-256-gcm"}
-  - {"name":"🇬🇧 英国","type":"ss","server":"zf.gz.cu.edu.kg","port":12901,"password":"21Mbdu6aSW","cipher":"aes-256-gcm"}
+  - {"name":"🇺🇸 美国","type":"ss","server":"js.cm.bbcc.cyou","port":25175,"password":"TNbsoDJbpk","cipher":"aes-256-gcm"}
+  - {"name":"🇬🇧 英国","type":"ss","server":"zf.gz.cu.edu.kg","port":17894,"password":"21Mbdu6aSW","cipher":"aes-256-gcm"}
   - {"name":"🇹🇭 泰国","type":"ss","server":"zf.gz.cu.edu.kg","port":29322,"password":"I0LT8nsYDihEVJ9m","cipher":"aes-256-gcm"}
 proxy-groups:
   - name: 🚀 节点选择
