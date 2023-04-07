@@ -1,9 +1,9 @@
 ####################################
 # 创建者：v2rayse.com
 # 客户端：Clash
-# 创建时间：2023-04-07 19:12:53
+# 创建时间：2023-04-07 22:01:00
 # 使用模版：V2RaySE 默认模版
-# 节点数量：6
+# 节点数量：7
 ####################################
 mixed-port: 7890
 allow-lan: true
@@ -27,6 +27,7 @@ proxies:
   - {"name":"🇺🇸 美国","type":"ss","server":"zf.sh.cu.edu.kg","port":45525,"password":"TNbsoDJbpk","cipher":"aes-256-gcm"}
   - {"name":"🇹🇭 泰国","type":"ss","server":"zf.gz.cu.edu.kg","port":29322,"password":"I0LT8nsYDihEVJ9m","cipher":"aes-256-gcm"}
   - {"name":"广港","type":"ss","server":"14.29.229.179","port":25109,"password":"Y4F1Vy993S","cipher":"aes-256-gcm"}
+  - {"name":"🇻🇳 越南","type":"ss","server":"gz.cm.bbcc.cyou","port":34026,"password":"h7niMFjGVK","cipher":"aes-256-gcm"}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -39,6 +40,7 @@ proxy-groups:
       - 🇺🇸 美国
       - 🇹🇭 泰国
       - 广港
+      - 🇻🇳 越南
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -51,6 +53,7 @@ proxy-groups:
       - 🇺🇸 美国
       - 🇹🇭 泰国
       - 广港
+      - 🇻🇳 越南
   - name: 🌍 国外媒体
     type: select
     proxies:
@@ -63,6 +66,7 @@ proxy-groups:
       - 🇺🇸 美国
       - 🇹🇭 泰国
       - 广港
+      - 🇻🇳 越南
   - name: 📲 电报信息
     type: select
     proxies:
@@ -74,6 +78,7 @@ proxy-groups:
       - 🇺🇸 美国
       - 🇹🇭 泰国
       - 广港
+      - 🇻🇳 越南
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
@@ -85,6 +90,7 @@ proxy-groups:
       - 🇺🇸 美国
       - 🇹🇭 泰国
       - 广港
+      - 🇻🇳 越南
   - name: 🍎 苹果服务
     type: select
     proxies:
@@ -96,6 +102,7 @@ proxy-groups:
       - 🇺🇸 美国
       - 🇹🇭 泰国
       - 广港
+      - 🇻🇳 越南
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -124,6 +131,7 @@ proxy-groups:
       - 🇺🇸 美国
       - 🇹🇭 泰国
       - 广港
+      - 🇻🇳 越南
 
 rules:
 # 本地/局域网地址
