@@ -1,7 +1,7 @@
 ####################################
 # 创建者：v2rayse.com
 # 客户端：Clash
-# 创建时间：2023-04-07 23:54:17
+# 创建时间：2023-04-08 18:10:05
 # 使用模版：V2RaySE 默认模版
 # 节点数量：8
 ####################################
@@ -27,7 +27,7 @@ proxies:
   - {"name":"🇺🇸 美国","type":"ss","server":"zf.sh.cu.edu.kg","port":45580,"password":"TNbsoDJbpk","cipher":"aes-256-gcm"}
   - {"name":"🇹🇭 泰国","type":"ss","server":"zf.gz.cu.edu.kg","port":39356,"password":"I0LT8nsYDihEVJ9m","cipher":"aes-256-gcm"}
   - {"name":"🇭🇰 广港","type":"ss","server":"14.29.229.179","port":25109,"password":"Y4F1Vy993S","cipher":"aes-256-gcm"}
-  - {"name":"🇻🇳 越南","type":"ss","server":"gz.cm.bbcc.cyou","port":34026,"password":"h7niMFjGVK","cipher":"aes-256-gcm"}
+  - {"name":"🇻🇳 越南","type":"ss","server":"gz.cm.bbcc.cyou","port":42598,"password":"qVe7EOOqTJ","cipher":"aes-256-gcm"}
   - {"name":"🇭🇰 az香港","type":"ss","server":"211.139.211.41","port":25161,"password":"CW022hAGDH","cipher":"aes-256-gcm"}
 proxy-groups:
   - name: 🚀 节点选择
