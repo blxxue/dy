@@ -1,7 +1,7 @@
 ####################################
 # 创建者：v2rayse.com
 # 客户端：Clash
-# 创建时间：2023-04-09 07:48:15
+# 创建时间：2023-04-09 08:10:32
 # 使用模版：V2RaySE 默认模版
 # 节点数量：9
 ####################################
@@ -23,7 +23,7 @@ dns:
 proxies:
   - {"name":"🇸🇬 新加坡","type":"ss","server":"zf.gz.cu.edu.kg","port":52728,"password":"Jw45kviZNd","cipher":"aes-256-gcm"}
   - {"name":"🇯🇵 沪日","type":"ss","server":"139.226.136.165","port":35528,"password":"JArTSRUElC","cipher":"aes-256-gcm"}
-  - {"name":"🇯🇵 日本","type":"ss","server":"gz.cm.bbcc.cyou","port":46898,"password":"Quoe5LzZmo","cipher":"aes-256-gcm"}
+  - {"name":"🇯🇵 日本","type":"ss","server":"js.cm.bbcc.cyou","port":32492,"password":"Quoe5LzZmo","cipher":"aes-256-gcm"}
   - {"name":"🇺🇸 美国","type":"ss","server":"139.226.136.165","port":35723,"password":"TNbsoDJbpk","cipher":"aes-256-gcm"}
   - {"name":"🇹🇭 泰国","type":"ss","server":"zf.gz.cu.edu.kg","port":39356,"password":"I0LT8nsYDihEVJ9m","cipher":"aes-256-gcm"}
   - {"name":"🇭🇰 深港","type":"ss","server":"gz.cm.bbcc.cyou","port":54693,"password":"Y4F1Vy993S","cipher":"aes-256-gcm"}
